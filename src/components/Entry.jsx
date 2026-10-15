@@ -3,7 +3,7 @@
 const Entry = (props) => {
     return (
      <div>
-                <p>{props.key}</p>
+               // <p>{props.key}</p>
 
                 <p>{props.emoji}</p>
         <p>{props.name}</p>
